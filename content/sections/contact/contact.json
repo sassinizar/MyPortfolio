@@ -1,9 +1,9 @@
 {
-  "name": "Gatsby Starter For Portfolio Minimal",
-  "email": "example@mail.com",
+  "name": "Nizar Sassi",
+  "email": "sassi_nizar@outlook.fr",
   "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
   "image": {
-    "src": "../../images/favicon.png",
+    "src": "../../images/nizar.jpg",
     "alt": "Gatsby Logo"
   },
   "socialProfiles": {
